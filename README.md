@@ -7,7 +7,6 @@
 **Language**
 <div style="display:flex; flex-direction:row;"> 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"> 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"> 
@@ -24,9 +23,6 @@
 <img src="https://img.shields.io/badge/Restful API-58ACFA?style=for-the-badge&logo=&logoColor=white">
 <img src="https://img.shields.io/badge/JWT-D7DF01?style=for-the-badge&logo=&logoColor=white">
   <br>
-<img src="https://img.shields.io/badge/Load Balancer-9F81F7?style=flat-square&logo=&logoColor=white">
-<img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-<br>
 </div><br>
 
 **Server/Deployment**
@@ -49,7 +45,6 @@
  **Tools/Collaborations**
 <div style="display:flex; flex-direction:row;"> 
   <img src="https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-  <img src="https://img.shields.io/badge/Putty-300100?style=for-the-badge&logo=putty&logoColor=white">
   <img src="https://img.shields.io/badge/git-181717?style=for-the-badge&logo=git&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
@@ -65,7 +60,6 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
   <br>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"> 
     <br>
